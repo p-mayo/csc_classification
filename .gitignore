@@ -1,0 +1,5 @@
+*__pycache__
+model/deep_csc.py
+*.xml
+runs
+python
